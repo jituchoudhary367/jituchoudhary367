@@ -60,7 +60,7 @@
 > **ML Model for Forecasting Cryptocurrency Prices**  
 > A time-series prediction project using LSTM to forecast future Bitcoin prices based on historical data.  
 **Tech Stack:** Python, TensorFlow, NumPy, Pandas, Matplotlib, Scikit-Learn  
-🔗 [GitHub Repo](https://github.com/jituchoudhary367)
+🔗 [GitHub Repo]((https://github.com/jituchoudhary367/Data-Science/tree/main/Bitcoin%20price%20analysis))
 
 ---
 
@@ -68,7 +68,7 @@
 > **Predicting Song Hits Using ML**  
 > Trained a regression model to predict the popularity score of songs based on acoustic features from Spotify's dataset.  
 **Tech Stack:** Python, Scikit-learn, Pandas, Seaborn, Matplotlib  
-🔗 [GitHub Repo](https://github.com/jituchoudhary367)
+🔗 [GitHub Repo]((https://github.com/jituchoudhary367/Data-Science/tree/main/Music%20Popularity%20prediction))
 
 ---
 
