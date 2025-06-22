@@ -1,20 +1,101 @@
 ## Hi there 👋
-Jitendra Kumar
+<h1 align="center">Hey there 👋, I'm <span style="color:#00BFFF">Jitendra Kumar</span></h1>
+<h3 align="center">🚀 AI Engineer | Data Engineer | SAP ABAP Developer</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jitendra-kumar-53a2162a3) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Jitendra Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jituchoudharyat@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jituchoudhary367&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jituchoudhary367&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jituchoudhary367&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jituchoudhary367&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Transforming+data+into+insights.;Engineering+AI-powered+solutions.;Solving+real-world+problems+with+ML.;Crafting+enterprise+tools+with+SAP+ABAP" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jituchoudhary367&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+🎓 **B.Tech in Computer Science Engineering** | **Parul University**  
+🎯 Specialization: **SAP ABAP Developer** (Industry-Embedded Program)  
+💡 Passionate about crafting solutions at the intersection of **AI**, **Data Engineering**, and **Enterprise Automation**  
+📊 Adept in designing and building **ML models**, **data pipelines**, and intelligent systems  
+💻 Solid foundation in **C**, **Python**, and **Java**  
+🧠 Strong **problem-solving mindset**, honed through hundreds of **DSA problems** and **real-world challenges**  
+🛠 Constant learner of emerging tools, best practices, and scalable engineering  
+🕒 Excellent at **time management**, multitasking, and meeting critical deadlines
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 👨‍💻 Programming Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="C" />
+</p>
+
+### 🧠 AI / ML Frameworks
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="40" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" width="40" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="40" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="40" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" width="40" alt="Scikit-Learn" />
+</p>
+
+### 🧰 Other Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git" />
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sap-erp-flat-flat-juicy-fish.png" height="40" width="40" alt="SAP ABAP" />
+</p>
+
+---
+
+## 💼 Featured Projects
+
+### 📉 Bitcoin Price Prediction
+> **ML Model for Forecasting Cryptocurrency Prices**  
+> A time-series prediction project using LSTM to forecast future Bitcoin prices based on historical data.  
+**Tech Stack:** Python, TensorFlow, NumPy, Pandas, Matplotlib, Scikit-Learn  
+🔗 [GitHub Repo](https://github.com/jituchoudhary367)
+
+---
+
+### 🎵 Music Popularity Prediction
+> **Predicting Song Hits Using ML**  
+> Trained a regression model to predict the popularity score of songs based on acoustic features from Spotify's dataset.  
+**Tech Stack:** Python, Scikit-learn, Pandas, Seaborn, Matplotlib  
+🔗 [GitHub Repo](https://github.com/jituchoudhary367)
+
+---
+
+## 🎓 College & DSA Journey
+
+🎓 Final-year B.Tech student, actively applying ML & DS in academic and independent projects  
+🔍 Solved **500+ DSA problems** on platforms like LeetCode, GeeksforGeeks & CodeStudio  
+🏆 Participated in university and national hackathons  
+🧠 Skilled in **algorithms**, **time complexity**, **greedy**, **recursion**, **DP**, and **graph-based problem solving**
+
+---
+
+## 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:jituchoudharyat@gmail.com"><img src="https://img.shields.io/badge/email-@jituchoudharyat-blue?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jitendra-kumar-53a2162a3/"><img src="https://img.shields.io/badge/linkedin-Profile-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://github.com/jituchoudhary367"><img src="https://img.shields.io/github/followers/jituchoudhary367?label=Follow&style=social" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jituchoudhary367&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jituchoudhary367&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## ✨ Quote
+
+> _"Code is like humor. When you have to explain it, it’s bad."_  
+> <p align="right">– Cory House</p>
+
+
