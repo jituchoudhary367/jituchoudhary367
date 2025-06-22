@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hey there 👋, I'm <span style="color:#00BFFF">Jitendra Kumar</span></h1>
 <h3 align="center">🚀 AI Engineer | Data Engineer | SAP ABAP Developer</h3>
 
@@ -12,12 +11,10 @@
 
 🎓 **B.Tech in Computer Science Engineering** | **Parul University**  
 🎯 Specialization: **SAP ABAP Developer** (Industry-Embedded Program)  
-💡 Passionate about crafting solutions at the intersection of **AI**, **Data Engineering**, and **Enterprise Automation**  
-📊 Adept in designing and building **ML models**, **data pipelines**, and intelligent systems  
+💡 Passionate about crafting solutions at the intersection of **AI**, **Data Science**, and **Enterprise Automation**   
 💻 Solid foundation in **C**, **Python**, and **Java**  
 🧠 Strong **problem-solving mindset**, honed through hundreds of **DSA problems** and **real-world challenges**  
 🛠 Constant learner of emerging tools, best practices, and scalable engineering  
-🕒 Excellent at **time management**, multitasking, and meeting critical deadlines
 
 ---
 
@@ -36,13 +33,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" width="40" alt="PyTorch" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="40" alt="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="40" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" width="40" alt="Scikit-Learn" />
 </p>
 
 ### 🧰 Other Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git" />
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sap-erp-flat-flat-juicy-fish.png" height="40" width="40" alt="SAP ABAP" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" height="40" width="80" alt="SAP" />
 </p>
 
 ---
@@ -67,8 +63,7 @@
 
 ## 🎓 College & DSA Journey
 
-🎓 Final-year B.Tech student, actively applying ML & DS in academic and independent projects  
-🔍 Solved **500+ DSA problems** on platforms like LeetCode, GeeksforGeeks & CodeStudio  
+🎓 Third-year B.Tech student, actively applying ML & DS in academic and independent projects  
 🏆 Participated in university and national hackathons  
 🧠 Skilled in **algorithms**, **time complexity**, **greedy**, **recursion**, **DP**, and **graph-based problem solving**
 
