@@ -75,7 +75,6 @@
 ## 🎓 College & DSA Journey
 
 🎓 Third-year B.Tech student, actively applying ML & DS in academic and independent projects  
-🏆 Participated in university and national hackathons  
 🧠 Skilled in **algorithms**, **time complexity**, **greedy**, **recursion**, **DP**, and **graph-based problem solving**
 
 ---
