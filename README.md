@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm <span style="color:#00BFFF">Jitendra Kumar</span></h1>
-<h3 align="center">🚀 Data Science | SAP ABAP Developer</h3>
+<h3 align="center">🚀 SAP fiori UI5 | Machine Learning| SAP ABAP Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Transforming+data+into+insights.;Engineering+AI-powered+solutions.;Solving+real-world+problems+with+ML.;Crafting+enterprise+tools+with+SAP+ABAP" alt="Typing SVG" />
