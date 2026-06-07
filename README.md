@@ -104,8 +104,8 @@ Python • XGBoost • Scikit-learn • FastAPI • Docker • Streamlit
 
 ## 🌐 Connect With Me
 
-* LinkedIn: linkedin.com/in/jitendra-kumar-53a2162a3
-* GitHub: github.com/jituchoudhary367
+* LinkedIn: [linkedin.com/in/jitendra-kumar-53a2162a3](https://www.linkedin.com/in/jitendra-kumar-ai-ml/)
+* GitHub: [https://github.com/jituchoudhary367/](https://github.com/jituchoudhary367)
 * Email: [jituchoudharyat@gmail.com](mailto:jituchoudharyat@gmail.com)
 
 ---
