@@ -1,97 +1,123 @@
-<h1 align="center">Hey there 👋, I'm <span style="color:#00BFFF">Jitendra Kumar</span></h1>
-<h3 align="center">🚀 SAP fiori UI5 | Machine Learning| SAP ABAP Developer</h3>
+# Hi, I'm Jitendra Kumar 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Transforming+data+into+insights.;Engineering+AI-powered+solutions.;Solving+real-world+problems+with+ML.;Crafting+enterprise+tools+with+SAP+ABAP" alt="Typing SVG" />
-</p>
+### AI Engineer | Machine Learning Engineer
 
----
-
-## 👨‍💻 About Me
-
-🎓 **B.Tech in Computer Science Engineering** | **Parul University**  
-🎯 Specialization: **SAP ABAP Developer** (Industry-Embedded Program)  
-💡 Passionate about crafting solutions at the intersection of **AI**, **Data Science**, and **Enterprise Automation**   
-💻 Solid foundation in **C**, **Python**, and **Java**  
-🧠 Strong **problem-solving mindset**, honed through hundreds of **DSA problems** and **real-world challenges**  
-🛠 Constant learner of emerging tools, best practices, and scalable engineering  
+Building intelligent systems that bridge Machine Learning, Large Language Models, and scalable production infrastructure.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🚀 About Me
 
-### 👨‍💻 Programming Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="C" />
-</p>
+I'm a Computer Science Engineering student at Parul University focused on building production-ready AI systems rather than isolated machine learning models.
 
+My interests lie at the intersection of:
 
-### 🧠 AI / ML Frameworks
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="40" alt="TensorFlow" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" width="40" alt="PyTorch" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="40" alt="NumPy" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="40" alt="Pandas" />
-  &nbsp;&nbsp;
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="40" width="40" alt="scikit-learn" />
-</p>
+* Artificial Intelligence
+* Machine Learning
+* Agentic AI Systems
+* Retrieval-Augmented Generation (RAG)
+* Backend Engineering for AI Applications
 
+I enjoy transforming complex business problems into scalable AI products through intelligent automation, data-driven decision making, and modern software engineering practices.
 
-### 🧰 Other Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git" />
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" height="40" width="80" alt="SAP" />
-</p>
+---
 
+## 🛠 Technical Stack
+
+### Languages
+
+Python • C++ • SQL
+
+### Artificial Intelligence
+
+LangChain • LangGraph • CrewAI • Hugging Face • RAG • Agentic AI
+
+### Machine Learning
+
+Scikit-learn • XGBoost • PyTorch • NumPy • Pandas • Matplotlib
+
+### Backend Development
+
+FastAPI • Flask • Django
+
+### MLOps & DevOps
+
+Docker • MLflow • DVC • Git • GitHub • CI/CD
+
+### Databases
+
+MySQL • MongoDB
 
 ---
 
 ## 💼 Featured Projects
 
-### 📉 Bitcoin Price Prediction
-> **ML Model for Forecasting Cryptocurrency Prices**  
-> A time-series prediction project using LSTM to forecast future Bitcoin prices based on historical data.  
-**Tech Stack:** Python, TensorFlow, NumPy, Pandas, Matplotlib, Scikit-Learn  
-🔗 [GitHub Repo](https://github.com/jituchoudhary367/Data-Science/tree/main/Bitcoin%20price%20analysis)
+### Multi-Agent Research Orchestrator
+
+A collaborative AI system consisting of Researcher, Critic, and Writer agents built using LangGraph.
+
+Key Highlights:
+
+* Multi-agent orchestration architecture
+* Semantic retrieval and context optimization
+* AST-guided document understanding
+* ~70% token reduction through prompt compression
+* Iterative reasoning and feedback workflows
+
+Tech Stack:
+
+Python • LangGraph • LangChain • LLMs • RAG
 
 ---
 
-### 🎵 Music Popularity Prediction
-> **Predicting Song Hits Using ML**  
-> Trained a regression model to predict the popularity score of songs based on acoustic features from Spotify's dataset.  
-**Tech Stack:** Python, Scikit-learn, Pandas, Seaborn, Matplotlib  
-🔗 [GitHub Repo](https://github.com/jituchoudhary367/Data-Science/tree/main/Music%20Popularity%20prediction)
+### Customer Churn Prediction System
+
+An end-to-end machine learning platform designed for customer retention analytics.
+
+Key Highlights:
+
+* Automated preprocessing and feature engineering
+* Model training and evaluation pipelines
+* FastAPI-powered inference services
+* MLflow experiment tracking
+* Dockerized deployment architecture
+* Prediction monitoring dashboards
+
+Tech Stack:
+
+Python • XGBoost • Scikit-learn • FastAPI • MLflow • Docker • Streamlit
 
 ---
 
-## 🎓 College & DSA Journey
+## 🎓 Certifications
 
-🎓 Third-year B.Tech student, actively applying ML & DS in academic and independent projects  
-🧠 Skilled in **algorithms**, **time complexity**, **greedy**, **recursion**, **DP**, and **graph-based problem solving**
-
----
-
-## 📬 Contact Me
-
-<p align="center">
-  <a href="mailto:jituchoudharyat@gmail.com"><img src="https://img.shields.io/badge/email-@jituchoudharyat-blue?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jitendra-kumar-53a2162a3/"><img src="https://img.shields.io/badge/linkedin-Profile-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://github.com/jituchoudhary367"><img src="https://img.shields.io/github/followers/jituchoudhary367?label=Follow&style=social" /></a>
-</p>
+* Oracle Cloud Infrastructure (OCI) Generative AI Professional
+* Oracle Cloud Infrastructure (OCI) Data Science Professional
+* SAP ABAP Backend Associate Developer
+* Deloitte Data Analytics Certification
 
 ---
 
+## 📈 Current Focus
 
-## ✨ Quote
+* Advanced Agentic AI Systems
+* Multi-Agent Architectures
+* Production MLOps
+* LLM Engineering
+* Retrieval-Augmented Generation (RAG)
+* Backend Systems for AI Applications
+* Kubernetes for AI Workloads
 
-> _"Code is like humor. When you have to explain it, it’s bad."_  
+---
 
+## 🌐 Connect With Me
 
+* LinkedIn: linkedin.com/in/jitendra-kumar-53a2162a3
+* GitHub: github.com/jituchoudhary367
+* Email: [jituchoudharyat@gmail.com](mailto:jituchoudharyat@gmail.com)
+
+---
+
+## 💡 Philosophy
+
+"AI becomes valuable only when intelligence meets engineering."
