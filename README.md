@@ -40,10 +40,6 @@ Scikit-learn • XGBoost • PyTorch • NumPy • Pandas • Matplotlib
 
 FastAPI • Flask • Django
 
-### MLOps & DevOps
-
-Docker • MLflow • DVC • Git • GitHub • CI/CD
-
 ### Databases
 
 MySQL • MongoDB
@@ -79,13 +75,12 @@ Key Highlights:
 * Automated preprocessing and feature engineering
 * Model training and evaluation pipelines
 * FastAPI-powered inference services
-* MLflow experiment tracking
 * Dockerized deployment architecture
 * Prediction monitoring dashboards
 
 Tech Stack:
 
-Python • XGBoost • Scikit-learn • FastAPI • MLflow • Docker • Streamlit
+Python • XGBoost • Scikit-learn • FastAPI • Docker • Streamlit
 
 ---
 
@@ -102,11 +97,8 @@ Python • XGBoost • Scikit-learn • FastAPI • MLflow • Docker • Stream
 
 * Advanced Agentic AI Systems
 * Multi-Agent Architectures
-* Production MLOps
-* LLM Engineering
 * Retrieval-Augmented Generation (RAG)
 * Backend Systems for AI Applications
-* Kubernetes for AI Workloads
 
 ---
 
