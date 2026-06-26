@@ -89,7 +89,6 @@ Python • XGBoost • Scikit-learn • FastAPI • Docker • Streamlit
 * Oracle Cloud Infrastructure (OCI) Generative AI Professional
 * Oracle Cloud Infrastructure (OCI) Data Science Professional
 * SAP ABAP Backend Associate Developer
-* Deloitte Data Analytics Certification
 
 ---
 
