@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jitendra Kumar</h1>
 
 <h3 align="center">
-AI Engineer • Machine Learning Engineer • Agentic AI Developer
+AI Engineer • Machine Learning Engineer
 </h3>
 
 <p align="center">
