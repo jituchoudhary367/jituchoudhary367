@@ -1,114 +1,248 @@
-# Hi, I'm Jitendra Kumar 👋
 
-### AI Engineer | Machine Learning Engineer
+<!-- Banner -->
+<h1 align="center">Hi 👋, I'm Jitendra Kumar</h1>
 
-Building intelligent systems that bridge Machine Learning, Large Language Models, and scalable production infrastructure.
+<h3 align="center">
+AI Engineer • Machine Learning Engineer • Agentic AI Developer
+</h3>
 
----
+<p align="center">
+Building intelligent AI systems that bridge <b>Machine Learning</b>, <b>Large Language Models</b>, and <b>Production Engineering</b>.
+</p>
 
-## 🚀 About Me
-
-I'm a Computer Science Engineering student at Parul University focused on building production-ready AI systems rather than isolated machine learning models.
-
-My interests lie at the intersection of:
-
-* Artificial Intelligence
-* Machine Learning
-* Agentic AI Systems
-* Retrieval-Augmented Generation (RAG)
-* Backend Engineering for AI Applications
-
-I enjoy transforming complex business problems into scalable AI products through intelligent automation, data-driven decision making, and modern software engineering practices.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Engineer;Building+Production+Ready+AI+Systems;Agentic+AI+%7C+RAG+%7C+LLMs;FastAPI+%7C+LangGraph+%7C+Python" />
+</p>
 
 ---
 
-## 🛠 Technical Stack
+# 🚀 About Me
 
-### Languages
+🎓 Computer Science Engineering Student at **Parul University**
 
-Python • C++ • SQL
+I'm passionate about building **production-ready AI applications** rather than isolated machine learning models.
 
-### Artificial Intelligence
+I enjoy combining:
 
-LangChain • LangGraph • CrewAI • Hugging Face • RAG • Agentic AI
+- 🤖 Artificial Intelligence
+- 🧠 Large Language Models
+- 🔍 Retrieval-Augmented Generation (RAG)
+- ⚡ Agentic AI Systems
+- 📊 Machine Learning
+- ☁ Backend Engineering
+- 🚀 MLOps & Deployment
 
-### Machine Learning
-
-Scikit-learn • XGBoost • PyTorch • NumPy • Pandas • Matplotlib
-
-### Backend Development
-
-FastAPI • Flask • Django
-
-### Databases
-
-MySQL • MongoDB
+I believe software engineering is what transforms AI models into real-world products.
 
 ---
 
-## 💼 Featured Projects
+# 🛠 Tech Stack
 
-### Multi-Agent Research Orchestrator
+## 👨‍💻 Languages
 
-A collaborative AI system consisting of Researcher, Critic, and Writer agents built using LangGraph.
-
-Key Highlights:
-
-* Multi-agent orchestration architecture
-* Semantic retrieval and context optimization
-* AST-guided document understanding
-* ~70% token reduction through prompt compression
-* Iterative reasoning and feedback workflows
-
-Tech Stack:
-
-Python • LangGraph • LangChain • LLMs • RAG
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,sql"/>
+</p>
 
 ---
 
-### Customer Churn Prediction System
+## 🤖 Artificial Intelligence
 
-An end-to-end machine learning platform designed for customer retention analytics.
-
-Key Highlights:
-
-* Automated preprocessing and feature engineering
-* Model training and evaluation pipelines
-* FastAPI-powered inference services
-* Dockerized deployment architecture
-* Prediction monitoring dashboards
-
-Tech Stack:
-
-Python • XGBoost • Scikit-learn • FastAPI • Docker • Streamlit
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CrewAI-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface"/>
+</p>
 
 ---
 
-## 🎓 Certifications
+## 📈 Machine Learning
 
-* Oracle Cloud Infrastructure (OCI) Generative AI Professional
-* Oracle Cloud Infrastructure (OCI) Data Science Professional
-* SAP ABAP Backend Associate Developer
-
----
-
-## 📈 Current Focus
-
-* Advanced Agentic AI Systems
-* Multi-Agent Architectures
-* Retrieval-Augmented Generation (RAG)
-* Backend Systems for AI Applications
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+<img src="https://skillicons.dev/icons?i=sklearn"/>
+<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=numpy,pandas"/>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## ⚙ Backend
 
-* LinkedIn: [linkedin.com/in/jitendra-kumar-53a2162a3](https://www.linkedin.com/in/jitendra-kumar-ai-ml/)
-* GitHub: [https://github.com/jituchoudhary367/](https://github.com/jituchoudhary367)
-* Email: [jituchoudharyat@gmail.com](mailto:jituchoudharyat@gmail.com)
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django"/>
+</p>
 
 ---
 
-## 💡 Philosophy
+## 🗄 Database
 
-"AI becomes valuable only when intelligence meets engineering."
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+---
+
+## ☁ DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux"/>
+</p>
+
+---
+
+# 💼 Featured Projects
+
+## 🤖 Multi-Agent Research Orchestrator
+
+An enterprise-grade collaborative AI system built using **LangGraph** consisting of autonomous AI agents.
+
+### Highlights
+
+- Multi-Agent Architecture
+- Research → Critic → Writer Workflow
+- Semantic Retrieval Pipeline
+- AST-guided Document Understanding
+- Context Compression
+- Token Optimization (~70%)
+- Long Context Memory
+- Human-in-the-loop Design
+- Multi-step Reasoning
+
+### Tech
+
+`Python`
+`LangGraph`
+`LangChain`
+`LLMs`
+`RAG`
+`FastAPI`
+
+---
+
+## 📊 Customer Churn Prediction System
+
+An end-to-end production-ready machine learning platform for customer retention analytics.
+
+### Highlights
+
+- Automated Data Pipeline
+- Feature Engineering
+- Model Training Pipeline
+- XGBoost Classifier
+- REST APIs
+- Docker Deployment
+- Streamlit Dashboard
+- Monitoring Ready
+
+### Tech
+
+`Python`
+`Scikit-Learn`
+`XGBoost`
+`FastAPI`
+`Docker`
+`Streamlit`
+
+---
+
+# 🎓 Certifications
+
+🏆 Oracle Cloud Infrastructure Generative AI Professional
+
+🏆 Oracle Cloud Infrastructure Data Science Professional
+
+🏆 SAP Certified Associate – Back-End Developer (ABAP Cloud)
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Agentic AI
+- Multi-Agent Architectures
+- Production LLM Systems
+- Enterprise RAG
+- Knowledge Graphs
+- AI Infrastructure
+- Distributed AI Systems
+- MLOps
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jituchoudhary367&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jituchoudhary367&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jituchoudhary367&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jituchoudhary367&theme=tokyonight&column=4"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/jitendra-kumar-ai-ml/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/jituchoudhary367">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:jituchoudharyat@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Philosophy
+
+> **"AI becomes valuable only when intelligence meets engineering."**
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=jituchoudhary367&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ If you like my work, consider giving a star to my repositories!
+</h3>
+
+<p align="center">
+Let's build the future with AI 🚀
+</p>
